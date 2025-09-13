@@ -9,7 +9,7 @@ sudo apt install openjdk-11-jre
 
 java -version
 
-#You should see an output similar to this:
+# You should see an output similar to this:
 
 openjdk version "11.0.12" 2021-07-20
 OpenJDK Runtime Environment (build 11.0.12+7-post-Debian-2)
