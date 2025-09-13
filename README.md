@@ -35,7 +35,7 @@ Step 4: Open Port 8080 in AWS Console
 To access Jenkins through your browser, you’ll need to open port 8080 on your AWS EC2 instance. This can be done through the AWS Management Console under the “Security Groups” settings.
 
 
-tast step: To get the admin password.
+Last step: To get the admin password.
 
 sudo cat /var/lib/jenkins/secrets/initialAdminPassword
 
